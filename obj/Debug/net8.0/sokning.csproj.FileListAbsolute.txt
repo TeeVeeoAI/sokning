@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\sokning\bin\Debug\net8.0\sokning.exe
+C:\Users\Admin\Documents\GitHub\sokning\bin\Debug\net8.0\sokning.deps.json
+C:\Users\Admin\Documents\GitHub\sokning\bin\Debug\net8.0\sokning.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\sokning\bin\Debug\net8.0\sokning.dll
+C:\Users\Admin\Documents\GitHub\sokning\bin\Debug\net8.0\sokning.pdb
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\sokning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\sokning.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\sokning.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\sokning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\sokning.dll
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\refint\sokning.dll
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\sokning.pdb
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\sokning.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\sokning\obj\Debug\net8.0\ref\sokning.dll
