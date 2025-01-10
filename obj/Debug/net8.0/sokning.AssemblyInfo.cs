@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sokning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e1b98f58700ee2246a507fc10c48706199f65f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+159542ae51d90a785cc65d20358cc91e81cda3aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("sokning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sokning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
